@@ -1,5 +1,5 @@
 
-# Void - 감정 배출 및 위로 서비스 백엔드
+# Void - 감정 배출 및 위로 서비스
 
 <div align="center">
 
