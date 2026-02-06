@@ -1,6 +1,9 @@
 
 # Void - 감정 배출 및 위로 서비스
 
+<img width="1887" height="883" alt="image" src="https://github.com/user-attachments/assets/986a7fc6-ffe5-4576-9394-bf9a69b25652" />
+
+
 <div align="center">
 
 ![Java](https://img.shields.io/badge/Java-17-007396?style=flat&logo=java)
