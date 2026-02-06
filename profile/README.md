@@ -1,7 +1,7 @@
 
 # Void - 감정 배출 및 위로 서비스
 
-<img width="1887" height="883" alt="image" src="https://github.com/user-attachments/assets/986a7fc6-ffe5-4576-9394-bf9a69b25652" />
+<img width="1512" height="859" alt="스크린샷 2026-02-07 오전 7 59 25" src="https://github.com/user-attachments/assets/aca8ca6c-cf97-41bb-9325-19031712315b" />
 
 
 <div align="center">
